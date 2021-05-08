@@ -135,7 +135,7 @@
     "electron-util": "^0.14.0",
     "ensure-error": "^2.0.0",
     "formik": "^2.1.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mdi-react": "^6.7.0",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
